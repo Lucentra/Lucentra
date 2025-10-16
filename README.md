@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Lucentra Investments</title>
+  <title>Lucentra Investments (Private) Limited</title>
 </head>
 <body>
   <h1>Welcome to Lucentra</h1>
-  <p>Industrial supply with African precision.</p>
+  <p>Driving Industry Forward with Integrated Solutions.</p>
 </body>
 </html>
 
