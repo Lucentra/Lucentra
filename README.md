@@ -1,3 +1,6 @@
+<img src="Lucentra Logo Final.png" alt="Lucentra Logo" width="300">
+
+
 ## Hi there 👋
 <!DOCTYPE html>
 <html>
